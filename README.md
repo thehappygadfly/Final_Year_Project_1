@@ -1,2 +1,4 @@
 # Final_Year_Project_1
 Project Aaron,Abraham,Weijian
+
+When uploading you work implement a gitignore file in the root directory of the project. So that all the assests don`t get uploaded very important or it could mess up the project. 
